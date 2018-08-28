@@ -1,0 +1,9 @@
+.userPortrait {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
+.jumbotron-noBotMargin {
+    margin-bottom: 0px;
+}
