@@ -7,6 +7,10 @@ hr {
     padding: 0;
 }
 
+.socialBtn{
+    margin: 10px;
+}
+
 .p-body {
     background: #626670;
     padding: 15px;
@@ -15,9 +19,10 @@ hr {
 }
 
 .userPortrait {
-    max-width: 300px;
+    /* max-width: 300px; */
     width: 100%;
     height: auto;
+    margin: auto;
 }
 
 .jumbotron-overRide {
